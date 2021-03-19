@@ -1,0 +1,8 @@
+cat > poolMetaData.json << EOF
+{
+"name": "Windsor Pool",
+"description": "Tokenized Yeilds, focusing on max returns,
+"ticker": "WIN",
+"homepage": "https://www.windsor-management.com"
+}
+EOF
